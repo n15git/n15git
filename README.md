@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="400" src="add your link 
-  here">
+<img align="right" alt="Coding" width="400" src="https://www.squiresgroup.com/wp-content/uploads/2019/02/Jan-blog-5-java-developer.jpeg">
 
 ## Hi there 👋
 
