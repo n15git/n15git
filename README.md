@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.squiresgroup.com/wp-content/uploads/2019/02/Jan-blog-5-java-developer.jpeg">
+<img align="center" alt="Coding" width="200" src="https://www.squiresgroup.com/wp-content/uploads/2019/02/Jan-blog-5-java-developer.jpeg">
 
 ## Hi there 👋
 
