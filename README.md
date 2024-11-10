@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik15git&label=Profile%20views&color=0e75b6&style=flat" alt="nik15git" /> </p>
 
-- 🔭 I’m currently working on **developing solutions using Java,C#, Azure DevOps, HTML, CSS, JavaScript, and React.**
+- 🔭 I’m currently working on **developing solutions using ASP.Net Core + WepAPI,Typescript,C#, Azure DevOps, HTML, CSS, JavaScript, and React.**
 
 - 🌱 I’m currently learning **new technical skills including Full stack development using .Net, container orchestration with Docker and Kubernetes, and exploring more about AWS cloud services.**
 
