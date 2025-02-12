@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **: You can connect with me on https://www.linkedin.com/in/nikita-sinha-873009194/ or email me at nikitasinha152000@gmail.com.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ajdkxeYjf3u54WlHfmDVhBx0DKs5vE2H/view?usp=sharing](https://drive.google.com/file/d/1ajdkxeYjf3u54WlHfmDVhBx0DKs5vE2H/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1K_kZ2hDbvDglnpBgTT4gMXyg5M2GQXEW/view?usp=sharing](https://drive.google.com/file/d/1K_kZ2hDbvDglnpBgTT4gMXyg5M2GQXEW/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy problem-solving and sketching.I enjoy brainstorming and coming up with creative solutions to challenging problems, whether it's through coding or soft skills techniques .**
 
@@ -38,9 +38,7 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+  
 </p>
 
 
