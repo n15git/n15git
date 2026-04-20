@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik15git&label=Profile%20views&color=0e75b6&style=flat" alt="nik15git" /> </p>
 
-- 🔭 I’m currently working on **developing solutions using TypeScript,Node.js,HTML,CSS,Webpack,JQuery,JWT Authentication,ASP.Net Core + WepAPI,C#, Azure DevOps,JavaScript, and React.**
+- 🔭 I’m currently working on **developing solutions using TypeScript,Node.js,HTML,CSS,Webpack,JQuery,JWT Authentication,DevOps,JavaScript, and React.**
 
 - 🌱 I’m currently learning **new technical skills including Full stack development, container orchestration with Docker and Kubernetes, and exploring more about Azure cloud services.**
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **: You can connect with me on https://www.linkedin.com/in/nikita-sinha-873009194/ or email me at nikitasinha152000@gmail.com.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K_kZ2hDbvDglnpBgTT4gMXyg5M2GQXEW/view?usp=sharing](https://drive.google.com/file/d/1K_kZ2hDbvDglnpBgTT4gMXyg5M2GQXEW/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy problem-solving and sketching.I enjoy brainstorming and coming up with creative solutions to challenging problems, whether it's through coding or soft skills techniques .**
 
